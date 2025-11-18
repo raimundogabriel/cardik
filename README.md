@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cardik_logo.png" width="180"/>
+</p>
 # 🏥 Dashboard Inteligente de Risco Cardíaco
 
 Este projeto implementa um **dashboard interativo** para análise de risco cardíaco utilizando:
